@@ -1,4 +1,4 @@
-# osc-webinar
+# geobon-webinar
 
 Code for the "Building products and applications on OBIS" talk at the GEO BON Open Science Conference 2020. 
 
